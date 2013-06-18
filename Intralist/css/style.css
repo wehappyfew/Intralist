@@ -1,0 +1,8 @@
+input:required , input[required] { background-color:#E3DADE; }
+input:focus:invalid {background-color:#F23A46;}
+input:focus:valid {background-color:#4FFC49;}
+
+
+html,body { height: 100%; }
+
+body { background: #eeeeee }
